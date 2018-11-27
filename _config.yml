@@ -1,11 +1,11 @@
 # Site settings
-author: cailee animalsnakes
-title: 
+author: cailee
+title: hello
 header-img: img/home-bg.png
 email: cailee.adamson+animalsnakes@wework.com
-copyright_name: cailee animalsnakes
+copyright_name: cailee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  bloggy
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  smoothiesareyummy
